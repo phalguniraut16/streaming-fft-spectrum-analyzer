@@ -1,0 +1,8 @@
+*.vcd
+*.wdb
+*.jou
+*.log
+*.pb
+*.cache/
+.Xil/
+simv
