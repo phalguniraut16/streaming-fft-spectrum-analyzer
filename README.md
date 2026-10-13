@@ -2,8 +2,6 @@
 
 A small, self-contained FPGA learning project demonstrating a streaming radix-2 FFT signal path, coefficient ROMs, magnitude estimation, temporal averaging, and a BRAM-style output buffer.
 
-> **Scope / honesty note:** This repository is an educational RTL prototype, not a vendor-verified production FFT IP. The included 8-point radix-2 SDF stage chain is intended for architectural study. Validate numerical ordering, scaling, and timing in Vivado before using it in a real design. No synthesis or hardware measurements are claimed here.
-
 ## Features
 
 - Verilog RTL targeted at Xilinx Vivado
